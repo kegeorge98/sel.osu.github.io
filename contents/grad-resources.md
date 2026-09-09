@@ -1,1 +1,1 @@
-### Graduate Student Resources
+# Graduate Student Resources
