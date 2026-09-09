@@ -1,28 +1,52 @@
-title: User Name's Homepage
-page-top-title: User Name
-top-section-bg-text: Computer Science
+title: Seascape Ecology Lab Homepage
+page-top-title: Seascape Ecology Lab
+top-section-bg-text: Background Text
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+copyright-text: '&copy; OSU Seascape Ecology Lab 2026. All Rights Reserved.'
 github-link:
   text: Github
-  href: https://github.com/senli1073
+  href: https://github.com/kegeorge98/sel.osu.github.io
 license-link:
   text: License
   href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
+    title: Seascape Ecology Lab
     href: '#page-top' # Default to '#<id>' if not specified
-  - id: publications
-    nav: PUBLICATIONS
-    title: PUBLICATIONS
+  - id: getting-started
+    nav: Getting Started
+    title: Getting Started
     icon: bi-file-text-fill
-  - id: awards
-    nav: AWARDS
-    title: AWARDS
+  - id: grad-resources
+    nav: Grad Student Resources
+    title: Grad Student Resources
     icon: bi-award-fill
+  - id: undergrad-resources
+    nav: Undergraduate Student Resources
+    title: Undergraduate Student Resources
+    icon: 
+  - id: training-resources
+    nav: Training Resources
+    title: Training Resources
+    icon:
+  - id: data-standards
+    nav: Metadata & Data Standards
+    title: Metadata & Data Standards
+    icon:
+  - id: instrument-sops
+    nav: SOPs - Instrumentation
+    title: Instrumentation SOPs
+    icon:
+  - id: process-sops
+    nav: SOPs - Processes
+    title: Process SOPs
+    icon:
+  - id: templates
+    nav: Templates
+    title: Templates
+    icon:
